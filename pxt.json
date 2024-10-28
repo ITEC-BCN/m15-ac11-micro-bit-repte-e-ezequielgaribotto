@@ -1,5 +1,5 @@
 {
-    "name": "microbit-template-repo-python",
+    "name": "temperatura_graficada_i_gota",
     "description": "",
     "dependencies": {
         "core": "*",
